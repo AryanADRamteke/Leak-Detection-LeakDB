@@ -8,9 +8,13 @@ Dataset
 
 Methodology
 -Load pressure data from Node_10
+
 -Load leak labels
+
 -Merge pressure and label data
+
 -Train Random Forest Classifier
+
 -Evaluate model performance
 
 Results

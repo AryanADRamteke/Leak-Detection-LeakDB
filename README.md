@@ -7,15 +7,11 @@ Dataset
 -Scenario-10 used for analysis
 
 Methodology
--Load pressure data from Node_10
-
--Load leak labels
-
--Merge pressure and label data
-
--Train Random Forest Classifier
-
--Evaluate model performance
+1. Load pressure data from Node_10
+2. Load leak labels
+3. Merge pressure and label data
+4. Train Random Forest Classifier
+5. Evaluate model performance
 
 Results
 1. Accuracy: 70.1%

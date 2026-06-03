@@ -23,8 +23,9 @@ Tools Used
 -Matplotlib
 -Scikit-learn
 -Jupyter Notebook
--Future Work
--Use multiple pressure nodes
--Apply ANN and Deep Learning models
--Perform leak localization
--Study sensor placement optimization
+
+Future Work
+1. Use multiple pressure nodes
+2. Apply ANN and Deep Learning models
+3. Perform leak localization
+4. Study sensor placement optimization

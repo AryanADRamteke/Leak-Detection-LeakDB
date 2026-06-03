@@ -25,6 +25,17 @@ Tools Used
 -Scikit-learn
 -Jupyter Notebook
 
+## Dataset
+
+LeakDB benchmark dataset (Hanoi_CMH network)
+
+Scenario-10 was selected for leak detection analysis.
+
+## Model Performance
+Accuracy: 70.1%
+Precision (Leak): 0.67
+Recall (Leak): 0.66
+
 Future Work
 1. Use multiple pressure nodes
 2. Apply ANN and Deep Learning models
